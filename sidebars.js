@@ -48,20 +48,8 @@ module.exports = {
         label: "Commands",
         items: [
          "commands/index",
-           {
-             type: "category",
-             label: "Economy",
-             items: [
-               "commands/economy/index",
-             ],
-           },
-           {
-             type: "category",
-             label: "Jobs",
-             items: [
-               "commands/jobs/news",
-             ],
-           },
+         "commands/economy/index",
+         "commands/jobs/index",
         ],
       },
    ],
