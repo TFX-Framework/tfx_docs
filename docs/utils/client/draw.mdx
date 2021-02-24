@@ -1,0 +1,30 @@
+---
+slug: draw
+title: Util.DrawText
+sidebar_label: Util.DrawText
+---
+
+Displays text on screen.
+
+Argument | Type | Description
+--- | --- | ---
+`text` | string | The text to display.
+`font` | number | Font to use, list: https://gtaforums.com/topic/794014-fonts-list/
+`center` | boolean | True/false align text center.
+`x` | number | Padding to left of screen.
+`y` | number | Padding to top of screen. 
+`scale` | number | Font size.
+`col` | Color of text.
+#### Example
+```lua
+--[[
+	This example will display text on screen.
+]]--
+
+Util.Tick(function()
+	Util.DrawText('Hello Barn Finder', 4, false, 20, 20, 0.6, Color(255,255,255))
+end) 
+```
+```javascript
+	// This function is not available in javascript.
+```

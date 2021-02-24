@@ -1,0 +1,29 @@
+---
+slug: draw3d
+title: Util.DrawText3D
+sidebar_label: Util.DrawText3D
+---
+
+Displays text at a point in the world.*
+
+Argument | Type | Description
+--- | --- | ---
+`x` | number | X position in the world.
+`y` | number | Y position in the world. 
+`z` | number | Z position in the world. 
+`text` | string | The text to display.
+
+#### Example
+```lua
+--[[
+	This example will display 'Example Text' on the player every tick.
+]]--
+
+Util.Tick(function()
+	local loc = GetEntityCoords(GetPlayerPed(-1))
+	Util.DrawText3D(loc.x, loc.y, loc.z, 'Example text')
+end) 
+``` 
+```javascript
+	// This function is not available in javascript.
+```

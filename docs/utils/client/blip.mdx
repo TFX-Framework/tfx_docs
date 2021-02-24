@@ -1,0 +1,28 @@
+---
+slug: blip
+title: Util.CreateBlip
+sidebar_label: Util.CreateBlip
+---
+
+Easy way for creating a blip with 1 line
+
+Argument | Type | Description
+--- | --- | ---
+`name` | string | The name of the blip in the GTA map.
+`sprite` | number | Sprite for the blip, list: https://docs.fivem.net/docs/game-references/blips/
+`color` | number | The colour the blip should be, list: https://gtaforums.com/topic/864881-all-blip-color-ids-pictured/
+`range` | boolean | True/false to set the blip as short range.
+#### Example
+```lua
+--[[
+	This example will put a blip on the map.
+]]--
+
+Citizen.CreateThread(function()
+	local loc = {x = 183.01249694824, y = -1319.4348144531, z = 29.317804336548}
+	local blip = Util.CreateBlip("Pawn Store", 277, 1, loc, true)
+end)
+```
+```javascript
+	// This function is not available in javascript.
+```

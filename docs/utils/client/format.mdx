@@ -1,0 +1,30 @@
+---
+slug: format
+title: Util.FormatMoneyString
+sidebar_label: Util.FormatMoneyString
+---
+
+
+Will return a formatted red or green string if the player can afford it.*
+
+Argument | Type | Description
+--- | --- | ---
+`amt` | number | Money amount.
+
+#### Example
+```lua
+--[[
+	This example will display text on the player prompting them to enter the clothing store.
+]]--
+
+Util.Tick(function()
+	local loc = GetEntityCoords(GetPlayerPed(-1))
+	Util.DrawText3D(loc.x, loc.y, loc.z, '[E] Clothing Store ('..Util.FormatMoneyString(500)..')')
+	if IsControlJustPressed(0, Util.GetKeyNumber('E')) then
+		-- enter clothes store
+	end
+end) 
+``` 
+```javascript
+	// This function is not available in javascript.
+```

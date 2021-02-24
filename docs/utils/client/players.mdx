@@ -1,0 +1,31 @@
+---
+slug: players
+title: Util.GetPlayers
+sidebar_label: Util.GetPlayers
+---
+
+Returns a table of all the currently connected players.* 
+
+
+ **NOTICE:** FiveM released a real version of this, list: https://docs.fivem.net/docs/scripting-reference/runtimes/lua/functions/GetPlayers/
+
+Argument | Type | Description
+--- | --- | ---
+
+#### Example
+```lua
+--[[
+	This will check if any players are nearby.
+]]--
+
+Util.Tick(function()
+	for _, player in pairs(Util.GetPlayers()) do
+		if Util.GetVecDist(GetEntityCoords(GetPlayerPed(player)),GetEntityCoords(GetPlayerPed(-1))) < 5 then
+			-- player is close
+		end
+	end
+end) 
+``` 
+```javascript
+	// This function is not available in javascript.
+```

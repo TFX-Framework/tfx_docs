@@ -1,0 +1,29 @@
+---
+slug: make
+title: Util.MakeString
+sidebar_label: Util.MakeString
+---
+
+Make a randomly generated string
+
+Argument | Type | Description
+--- | --- | ---
+`length` | number | Number of characters to create string.
+#### Example
+```lua
+['WEAPON_STUNGUN'] = {
+    index = "WEAPON_STUNGUN",
+    name = "Stun Gun",
+    amt = 1,
+    customData = {
+        weapon = 'true',
+        ammo = 0,
+        ammotype = 'none',
+        quality = 'normal',
+        PDIssued = Util.MakeString(6)
+    }
+},
+``` 
+```javascript
+	// This function is not available in javascript.
+```

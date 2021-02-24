@@ -1,0 +1,16 @@
+---
+slug: install
+title: Installation
+sidebar_label: Installation
+---
+
+* Install the required below resources. 
+* Set up mysql-async, 
+* add this to your server.cfg:
+```
+ensure mysql-async
+add_ace resource.tfx_main command.start allow
+ensure tfx_main
+
+[ENSURE ALL NON TFX_* RESOURCES HERE]
+```

@@ -1,0 +1,24 @@
+---
+slug: vec
+title: Util.GetVecDist
+sidebar_label: Util.GetVecDist
+---
+
+Gets the vector distance between two entities.* 
+
+Argument | Type | Description
+--- | --- | ---
+`v1` | vector3 | Vector to compare against.
+`v2` | vector3 | Vector to compare against.
+#### Example
+```lua
+if Util.GetVecDist(GetEntityCoords(GetPlayerPed(-1)), GetEntityCoords(vehicle)) then
+	print('is nearby')
+end
+``` 
+```lua
+is nearby
+```
+```javascript
+	// This function is not available in javascript.
+```

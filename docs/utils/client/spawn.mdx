@@ -1,0 +1,26 @@
+---
+slug: spawn
+title: Util.SpawnVehicle
+sidebar_label: Util.SpawnVehicle
+---
+
+Spawns a vehicle where specified.
+
+Argument | Type | Description
+--- | --- | ---
+`hash` | string | GTA Hash of the vehicle you wish to spawn.
+`xyzh` | table | Coordinates to spawn vehicle at.
+#### Example
+```lua
+--[[
+	This example will spawn an FMJ at the pawn store.
+]]--
+
+Citizen.CreateThread(function()
+	local loc = {183.01249694824, -1319.4348144531, 29.317804336548, 1.01}
+	local vehicle = Util.SpawnVehicle(GetHashKey('fmj'), loc)
+end)
+```
+```javascript
+	// This function is not available in javascript.
+```
