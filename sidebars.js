@@ -52,7 +52,7 @@ module.exports = {
              type: "category",
              label: "Economy",
              items: [
-               "commands/economy/list",
+               "commands/economy/index",
              ],
            },
            {
