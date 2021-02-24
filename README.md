@@ -1,5 +1,5 @@
 # tfx_docs
-Official Website and Documentation for the TFX-Framework made using Node and React ❤️
+Official Documentation, Help Desk and Blog for ToxicFX made using Node and React ❤️
 
 ---
 
