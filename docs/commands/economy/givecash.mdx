@@ -1,18 +1,15 @@
 ---
 slug: givecash
-title: Give Cash
-sidebar_label: Give Cash
+title: Economy Commands
+sidebar_label: Economy
 ---
 
-Give cash to the provided player.
-
-###### Parameters
-Argument | Type | Description
---- | --- | ---
-ID | Number | The users Player ID.
-AMOUNT | Number | Amount of money to give. 
-
-## Usage
-```
-/givecash {ID} {AMOUNT}
-```
+| Command | Arguments type | Arguments | Example | Description | Rank | DRP script |
+| ---------- | --- | --- | ----------------- | --- | --- | --- |
+| addbank | [database ID] [amount] | [int] [int] | /addbank 1 100 | Add a certain [amount] to the bank account of the user with the [database ID] | superadmin | drp_core |
+| addcash | [database ID] [amount] | [int] [int] | /addcash 1 100 | Add a certain [amount] of cash to the user with the [database ID] | superadmin | drp_core |
+| bank | none | - | /bank | Show how much on your bank account you have | all | drp_bank |
+| cash | none | - | /cash | Show how much cash you have | all | drp_bank |
+| dirty | none | - | /dirty | Show how much dirty money you have | all | drp_bank |
+| removebank | [database ID] [amount] | [int] [int] | /removebank 1 100 | Remove a certain [amount] from the bank account of the user with the [database ID] | superadmin | drp_core |
+| removecash | [database ID] [amount] | [int] [int] | /removecash 1 100 | Remove a certain [amount] of cash to the user with the [database ID] | superadmin | drp_core |
