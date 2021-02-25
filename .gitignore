@@ -1,0 +1,10 @@
+# Basic Yarn and NPM Stuff
+package.json
+package-lock.json
+yarn.lock
+
+# Documentation Page Stuff
+docusaurus.config.js
+components/*
+sidebars.js
+docs/*
