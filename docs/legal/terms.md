@@ -7,8 +7,8 @@
 ---
 
 ## Intellectual Property</h2>
-- This website and its original content, features, and functionality are owned by Paradise Bots and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. 
-- All data generated and shared by Paradise Bots in the past, present, or future is property of Paradise Bot List and it's sole owners and must be transferred, removed, or changed on request.
+- This website and its original content, features, and functionality are owned by ToxicFX and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws. 
+- All data generated and shared by ToxicFX in the past, present, or future is property of ToxicFX and it's sole owners and must be transferred, removed, or changed on request.
 
 ---
 
