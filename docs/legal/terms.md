@@ -18,6 +18,12 @@ You are expressly and emphatically restricted from all of the following:
 2. selling, sublicensing and/or otherwise commercializing any website material
 3. attempting to decompile or reverse engineer any software contained on this website
 4. removing any copyright or other proprietary notations from website materials
+5. transferring website materials to another person or "mirroring" the materials on any other server
+6. using this website in any way that is, or may be, damaging to this website
+7. using this website in any way that impacts user access to this website
+8. using this website contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the website, or to any person or business entity
+9. engaging in any data mining, data harvesting, data extracting, or any other similar activity in relation to this website, or while using this website
+10. using this website to engage in any advertising or marketing without permission from Paradise Bots or our advertising partners
 
 ---
 
