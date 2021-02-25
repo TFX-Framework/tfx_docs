@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/React.js-v16.13.1-brightgreen.svg?style=for-the-badge&logo=react&labelColor=000000&logoWidth=20">
 </a>
 <a aria-label="React.js" href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React.js-v16.13.1-brightgreen.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
+  <img src="https://img.shields.io/badge/Maintainer-@TheRealToxicDev-brightgreen.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
 </a>
-[![Netlify Build Status](https://img.shields.io/badge/Follow%3A-@TheRealToxicDev-blueviolet.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20)](https://github.com/TheRealToxicDev)
 
 Official Documentation, Help Desk and Blog for ToxicFX made using Node, Bootstrap and React ❤️
 
