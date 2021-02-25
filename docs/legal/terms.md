@@ -79,5 +79,5 @@ By using this website you are agreeing to be bound by the then current version o
 ---
 
 # Credit & Contact Information
-- This Terms and conditions page was last modified on: **26/09/2020.** 
+- This Terms and conditions page was last modified on: **02/25/2021.** 
 - If you have any queries regarding any of our terms, please contact us: legal@toxicfx.org
