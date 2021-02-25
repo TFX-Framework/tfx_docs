@@ -41,6 +41,18 @@ module.exports = {
           label: "Documentation",
           position: "left"
         },
+       {
+        to: "docs/legal/terms",
+          activeBasePath: "docs/legal/terms",
+          label: "Terms of Service",
+          position: "left"
+        },
+       {
+        to: "docs/legal/privacy",
+          activeBasePath: "docs/legal/privacy",
+          label: "Privacy Policy",
+          position: "left"
+        },
         { 
           to: "blog", 
           label: "Updates", 
@@ -60,18 +72,6 @@ module.exports = {
         to: "docs/faqs/index",
           activeBasePath: "docs/faqs/index",
           label: "FAQs",
-          position: "left"
-        },
-       {
-        to: "docs/legal/terms",
-          activeBasePath: "docs/legal/terms",
-          label: "Terms of Service",
-          position: "left"
-        },
-       {
-        to: "docs/legal/privacy",
-          activeBasePath: "docs/legal/privacy",
-          label: "Privacy Policy",
           position: "left"
         }
       ]
