@@ -61,6 +61,18 @@ module.exports = {
           activeBasePath: "docs/faqs/index",
           label: "FAQs",
           position: "left"
+        },
+       {
+        to: "docs/legal/terms",
+          activeBasePath: "docs/legal/terms",
+          label: "Terms of Service",
+          position: "left"
+        },
+       {
+        to: "docs/legal/privacy",
+          activeBasePath: "docs/legal/privacy",
+          label: "Privacy Policy",
+          position: "left"
         }
       ]
     },
