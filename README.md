@@ -1,9 +1,5 @@
 # tfx_docs
-Official Documentation, Help Desk and Blog for ToxicFX made using Node and React ❤️
-
----
-
-[![Netlify Build Status](https://img.shields.io/badge/Follow%3A-@TheRealToxicDev-blueviolet.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20)](https://github.com/TheRealToxicDev)
+Official Documentation, Help Desk and Blog for ToxicFX made using Node, Bootstrap and React ❤️
 
 ---
 
@@ -32,3 +28,8 @@ Official Documentation, Help Desk and Blog for ToxicFX made using Node and React
 
 ## Self Hosting
 You want to copy our docs 🤔 we won't help with setup. It's just here to be open source and allow our users to contribute.
+
+--- 
+
+## Support the Dev
+[![Netlify Build Status](https://img.shields.io/badge/Follow%3A-@TheRealToxicDev-blueviolet.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20)](https://github.com/TheRealToxicDev)
