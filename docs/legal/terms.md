@@ -1,8 +1,8 @@
 
-1. By accessing the ToxicFX website, you are agreeing to be bound by these Terms of Service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws.
-2. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
-3. This website is not for use by those under 13 years of age, and ToxicFX does not knowingly store information from children under 13.
-4. ToxicFX is not associated with or affiliated with <a href="https://discord.com/">Discord</a>
+- By accessing the ToxicFX website, you are agreeing to be bound by these Terms of Service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws.
+- If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+- This website is not for use by those under 13 years of age, and ToxicFX does not knowingly store information from children under 13.
+- ToxicFX is not associated with or affiliated with <a href="https://discord.com/">Discord</a> or <a href="https://fivem.net/">CitizenFX</a>
 
 ---
 
