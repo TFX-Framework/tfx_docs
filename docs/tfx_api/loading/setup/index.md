@@ -1,4 +1,9 @@
-## Setup
+---
+slug: setup
+title: Loading Screen Setup
+sidebar_label: Setup
+---
+
 ### Changing the Loading Screen Song
 1. Choose a song from the list of available songs below
 2. Head to the index.html file of the Loading Screen resource
