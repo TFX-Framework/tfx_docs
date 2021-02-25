@@ -16,7 +16,7 @@ Currently we offer a few solutions for Music you may use hosted through our CDN 
 You're also free to use any song of your choice as long as its a link that ends with ".mp3"
 
 ### Full Song List
-* [Click Me](./SONGS.md)
+* [Click Me](./songs.md)
 
 ### Request a Song to be Added
 1. Join our [Discord](https://toxicfx.org/discord) 
