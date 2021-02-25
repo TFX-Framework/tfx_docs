@@ -1,7 +1,4 @@
 # tfx_docs
-<a aria-label="SCSS" href="">
-  <img src="https://img.shields.io/badge/stylesheet-scss-blue.svg?style=for-the-badge&logo=scss&labelColor=000000&logoWidth=20">
-</a>
 <a aria-label="Bootstrap" href="">
   <img src="https://img.shields.io/badge/stylesheet-bootstrap-blue.svg?style=for-the-badge&logo=bootstrap&labelColor=000000&logoWidth=20">
 </a>
