@@ -1,10 +1,9 @@
 ---
 slug: loading
-title: tfx_loadingscreen
+title: ToxicFX Loading Screen
 sidebar_label: Loading Screen
 ---
 
-# ToxicFX Loading Screen
 A nice Customizeable Loading Screen with IFrame and Music Support.
 
 Can be used along side the Framework or as a Standalone Resource.
