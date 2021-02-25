@@ -54,7 +54,7 @@ In no event shall ToxicFX, nor any of its representatives, be liable to you for 
 
 ---
 
-## Accuracy of Materials</h2>
+## Accuracy of Materials
 The materials appearing on the ToxicFX website could include technical, typographical, or photographic errors. 
 ToxicFX does not warrant that any of the materials on its website are accurate, complete, or current. 
 ToxicFX and its users may make changes to the materials contained on the website at any time without notice. However, ToxicFX does not make any commitment to update the materials.
