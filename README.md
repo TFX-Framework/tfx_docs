@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Maintainer-@TheRealToxicDev-brightgreen.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
 </a>
 <a aria-label="VERSION" href="https://toxicfx.org">
-  <img src="https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg?style=for-the-badge&labelColor=000000&logoWidth=20">
+  <img src="https://img.shields.io/badge/Version-v1.0.0-violet.svg?style=for-the-badge&labelColor=000000&logoWidth=20">
 </a>
 
 ---
