@@ -6,7 +6,6 @@ module.exports = {
         label: "Framework",
         items: [
          "installation",
-         "utils/index",
            {
              type: "category",
              label: "Commands",
