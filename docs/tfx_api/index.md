@@ -4,7 +4,7 @@ title: API Introduction
 sidebar_label: Introduction
 ---
 
-The ToxicFX Framework is Online and Available to be interacted with in a Variety of ways.
+The ToxicFX API is Online and Available to be interacted with in a Variety of ways.
 
 ---
 
