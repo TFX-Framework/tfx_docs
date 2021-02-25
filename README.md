@@ -5,6 +5,12 @@
 <a aria-label="Bootstrap" href="">
   <img src="https://img.shields.io/badge/stylesheet-bootstrap-blue.svg?style=for-the-badge&logo=bootstrap&labelColor=000000&logoWidth=20">
 </a>
+<a aria-label="React.js" href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React.js-v16.13.1-brightgreen.svg?style=for-the-badge&logo=react&labelColor=000000&logoWidth=20">
+</a>
+<a aria-label="React.js" href="https://reactjs.org/">
+  <img src="https://img.shields.io/badge/React.js-v16.13.1-brightgreen.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
+</a>
 [![Netlify Build Status](https://img.shields.io/badge/Follow%3A-@TheRealToxicDev-blueviolet.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20)](https://github.com/TheRealToxicDev)
 
 Official Documentation, Help Desk and Blog for ToxicFX made using Node, Bootstrap and React ❤️
@@ -14,13 +20,6 @@ Official Documentation, Help Desk and Blog for ToxicFX made using Node, Bootstra
 ## Deploys | Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/63d8c6df-9068-4a5e-999f-207ba46d3bd0/deploy-status)](https://app.netlify.com/sites/relaxed-spence-8ce35f/deploys)
-
----
-
-###### Made With
-<a aria-label="React.js" href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React.js-v16.13.1-brightgreen.svg?style=for-the-badge&logo=react&labelColor=000000&logoWidth=20">
-</a>
 
 ---
 
