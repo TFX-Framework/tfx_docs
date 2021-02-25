@@ -1,6 +1,6 @@
 ---
 slug: songs
-title: Loading Screen Music
+title: Available Songs
 sidebar_label: Songs
 ---
 
