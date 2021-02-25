@@ -13,7 +13,7 @@ If you cannot find an answer from this section, your question was probably alrea
 
 ---
 
-### What makes this framework different?
+## What makes this framework different?
 Of course, it is a framework that is being made from scratch. 
 Means it will be behind ESX or VRP, but there are far too many servers using these frameworks... 
 which is why this is unique!
@@ -27,19 +27,54 @@ which is why this is unique!
 
 ---
 
-### Does this work with ESX?
+## Does this work with ESX?
 
 No resources in this framework will work without having the TFX Files, which are stated in the fxmanifest dependencies.
 
 ---
 
-### Do I need to change the 2000 port inside externalSQL to connect to MySQL?
+## Do I need to change the 2000 port inside externalSQL to connect to MySQL?
 - No, this port is used by ExternalSQL to speak, and should be different than the port used by MySQL (3306 by default). So it needs a non-use port!
 
-### When is my Requested Feature be added?
+## When is my Requested Feature be added?
 - When it is ready for actions, the team behind TFX is not bonded by any schedule. and make sure everything is working fine when they release a new resource. So you need to understand that this process takes some time.
 
 ---
 
-### Can I make a resource for the TFX Framework?
+## Can I make a resource for the TFX Framework?
 - Sure, and we would love to see it! You can DM Toxic with what you created so we can put it under #tfx-community-releases
+
+---
+
+## My character is not created when I press create
+1. Check if every column inside your database for the character table have a default value.
+2. Clear your cache
+
+---
+
+## I have a "No such export DBAsyncQuery in resource externalSQL" error
+1. Make sure you have all the latest scripts from DRP
+2. Go to the file where the error was raised and change all the `exports["externalsql"]:DBAsyncQuery` with `exports["externalsql"]:AsyncQueryCallback`
+
+---
+
+## I have a "strfnd" error
+1. Make sure you have all the latest scripts from DRP
+2. Check if your database port is not blocked by the firewall
+3. Check if all your columns inside the database have a default value
+4. The database is not configured correctly check your `config.json` in the **externalSQL** resource
+
+---
+
+### I get errors in my console for dependencies
+1. One of the needed resource is not installed, check the **fxmanifest.lua** to know which one
+
+---
+
+### I get lots of errors for "character" in my console
+1. The database is not configured correctly check your `config.json` in the **externalSQL** resource
+
+---
+
+### I am stuck on Awaiting scripts
+1. Clear your cache
