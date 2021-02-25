@@ -1,3 +1,8 @@
+---
+slug: privacy
+title: Privacy Policy
+sidebar_label: Privacy Policy
+---
 
 ## Terms and Definitions
 1. ToxicFX. and its affiliates (‘’ToxicFX’’, ’’TFX’’, ‘’toxicfx.org’’, "us", "our" or "we") are dedicated to protecting the privacy rights of our users ("users" or "you").  
@@ -9,7 +14,7 @@
 
 ---
 
-## Stored Data</h2>
+## Stored Data
 - ToxicFX uses Discord alone side Email for authentication in place of having our own accounts. Because of this we store information about your Discord account in our secure databases.
 - This information includes all data authorized by the user through Discord's OAuth consent page. For users with no created content this data will be deleted after a few days of inactivity. 
 - While logged in to the website, any account-linked action you perform, such as reviewing a bot, will be stored with a reference to your Discord ID. Additionally, any data you submit to ToxicFX, such as through user pages will be stored and displayed on the site until deleted by the user or a moderator.
@@ -58,5 +63,5 @@ By using our website, you hereby consent to our Privacy Policy.
 ---
 
 ## Credit & Contact Information
-- This Privacy page was last modified on: **02/25/2020**
+- This Privacy page was last modified on: **02/25/2021**
 - If you have any queries regarding any of our policys, please contact us: legal@toxicfx.org	
