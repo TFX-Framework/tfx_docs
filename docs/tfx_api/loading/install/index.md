@@ -1,7 +1,7 @@
 ---
-slug: setup
-title: Loading Screen Setup
-sidebar_label: Setup
+slug: install
+title: Loading Screen Install
+sidebar_label: Install
 ---
 
 1. Add the “tfx_loadingscreen” folder to your Server Resources
