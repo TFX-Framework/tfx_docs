@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Maintainer-@TheRealToxicDev-brightgreen.svg?style=for-the-badge&logo=github&labelColor=000000&logoWidth=20">
 </a>
 
+---
+
 Official Documentation, Help Desk and Blog for ToxicFX made using Node, Bootstrap and React ❤️
 
 ---
